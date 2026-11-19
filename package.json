@@ -1,0 +1,17 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "description": "Organizes files in a directory into folders based on their file extensions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "file-organizer",
+    "nodejs",
+    "fs",
+    "path"
+  ],
+  "author": "",
+  "license": "ISC"
+}
